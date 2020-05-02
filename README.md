@@ -28,7 +28,7 @@
 * [] Add pins to the map
 * [] Click a pin to see the message
 * [] DEPLOY!
-  * [] https://guestm.app
+  * [] 
 * Refactor React app
   * seperate components
   * seperate file for API requests
